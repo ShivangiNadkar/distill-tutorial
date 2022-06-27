@@ -8,3 +8,18 @@ description: |
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
+## About Me
+  My name is **Shivangi Nadkar**. I am a rising freshman going into Newton North High School.
+  
+## About the Project
+  My project, *Fuel Efficiency and Weight* highlights the relationship between heavier cars and less fuel efficiency.
+  
+### Goals
+  * Reason 1
+    + This was one difficulty
+  * Reason2
+  
+"This is data science"  
+~ -Preceptor
+
+[Kane’s Free High School Data Science Bootcamp](https://bootcamp.davidkane.info.)
